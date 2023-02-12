@@ -1,2 +1,2 @@
 # py-notes
-Notes and various topics in Python
+Notes on various topics in Python
